@@ -8,7 +8,7 @@ SoftwareSerial bluetooth(BT_TX, BT_RX);  // Create a software serial for Bluetoo
 
 volatile bool isTap = false;
 
-void IRAM_ATTR detectTap() {
+void detectTap() {
     isTap = true;
 }
 
