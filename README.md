@@ -1,1 +1,3 @@
 # TENG-TriboElectricNanoGenerator
+
+Developed a self-powered emergency assistance device designed to aid individuals in distress, particularly elderly individuals or those in healthcare facilities. The wearable device, in the form of a wristband or ring, utilizes TriboElectric NanoGenerators (TENGs) to generate electrical energy through contact electrification. This energy is then used to activate infrared (IR) LEDs, which transmit distress signals to IR receivers positioned within a room. These receivers decode the signals and trigger an appropriate response, such as notifying caregivers or emergency services. 
